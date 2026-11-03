@@ -4,7 +4,7 @@
     Credits:
 
     Thank you ChatGPT and CoPilot for fixing my bugs and helping me code faster!
-    This game was made with the help of AI tools, but all code was written and structured by me.
+    Some code was debugged with the help of AI tools, but all code was created by me.
 
     Some aspects of the game were inspired by Griffpatch, including the level saving/loading system.
     I translated some of his Scratch code into JavaScript and adapted it to my needs. Big Thanks!
